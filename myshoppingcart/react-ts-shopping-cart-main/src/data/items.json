@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Shrimp (kg)",
+    "price": 700,
+    "imgUrl": "/imgs/shrimp.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fish (KG)",
+    "price": 350,
+    "imgUrl": "/imgs/fish.png"
+  },
+  {
+    "id": 3,
+    "name": "Octopus (kg)",
+    "price": 500,
+    "imgUrl": "/imgs/octopus.png"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Legs (KG)",
+    "price": 250,
+    "imgUrl": "/imgs/chicken.png"
+  },
+  {
+    "id": 5,
+    "name": "Meat",
+    "price": 1200,
+    "imgUrl": "/imgs/meat.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pieces of Meat",
+    "price": 1200,
+    "imgUrl": "/imgs/pieces of meat.png"
+  }
+]
